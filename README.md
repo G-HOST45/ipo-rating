@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IPO Scorecard
 
 A Next.js + Postgres website that scores upcoming Indian IPOs from 0 to 10 using **reported facts only**: financials, issue structure (fresh issue vs offer for sale), objects of the issue, shareholding, and valuation against peers. No predictions, no grey-market premium, no listing-gain guesses.
@@ -74,3 +75,6 @@ npm run build
 - Replace demo data and confirm every number against the RHP; wrong data is the biggest risk to a facts-only product.
 - Keep the "not investment advice" footer. If you publish ratings commercially, check Indian regulations on research analyst / investment advice registration with a qualified professional.
 - Add peer data you trust: the valuation factors depend on the peers named in the offer document.
+=======
+# ipo-rating
+>>>>>>> a205aaec69223ff3d0d15caf73d2a0c082c2e8fb
